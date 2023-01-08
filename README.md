@@ -12,7 +12,7 @@ The following example enables IPADIC.
 
 ```
 [dependencies]
-lindera-tantivy = { version = "0.12.0", features = ["ipadic"] }
+lindera-tantivy = { version = "0.19.0", features = ["ipadic"] }
 ```
 
 - ipadic: Japanese dictionary
